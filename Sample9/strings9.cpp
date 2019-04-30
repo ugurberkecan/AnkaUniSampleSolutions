@@ -11,7 +11,7 @@ int main(){
   int upper;
 cin >> s1;
 
-  cout << upper << endl;
+  upper='a'-'A';
   while( s1[counter] != '\0'){
   s1[counter]=s1[counter]-upper;
   counter++;
