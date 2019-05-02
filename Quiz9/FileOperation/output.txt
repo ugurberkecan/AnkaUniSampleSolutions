@@ -1,0 +1,3 @@
+Two integers entered by user is stored using scanf() function
+sum of two numbers in stored in variable sumOfTwoNumbers
+Displays sum
